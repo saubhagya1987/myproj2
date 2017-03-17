@@ -1,0 +1,20 @@
+/target/
+
+.project
+.classpath
+.setting
+.settings
+.project
+<<<<<<< .mine
+*.project
+
+.settings
+
+target
+=======
+
+
+
+
+
+>>>>>>> .theirs
